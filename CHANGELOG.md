@@ -1,3 +1,11 @@
+# 1.3.0 (2023-09-23)
+
+### Features
+
+* **release:** Merge branch 'release/1.3.0' ([55c42af](https://github.com/vvsattarova/study_2023-2024_infosec/commit/55c42af92b1011f664d32a6ac86ccb25632317c6))
+* **changelog:** update CHANGELOG.md ([5932604](https://github.com/vvsattarova/study_2023-2024_infosec/commit/59326047394c0f90dfce3d7a4e72fadd090e9021))
+* **lab3:** upload lab3 files ([6864d6f](https://github.com/vvsattarova/study_2023-2024_infosec/commit/6864d6fb4a34a8d7671529a2eeff6824b33db343))
+
 # 1.2.0 (2023-09-16)
 
 ### Features
