@@ -1,3 +1,11 @@
+# 1.4.0 (2023-09-30)
+
+### Features
+
+* **release:** Merge branch 'release/1.4.0' ([c6c84d9](https://github.com/vvsattarova/study_2023-2024_infosec/commit/c6c84d99364769216a6ccd2012f5d71bf5c5e78e))
+* **changelog:** update CHANGELOG.md ([8e602cb](https://github.com/vvsattarova/study_2023-2024_infosec/commit/8e602cbe127ee21036f732e486cb47f5c72a6e2a))
+* **lab4:** upload lab4 files ([05c01fa](https://github.com/vvsattarova/study_2023-2024_infosec/commit/05c01fa0a822566a05353f0037e2bf2e4bec7153))
+
 # 1.3.0 (2023-09-23)
 
 ### Features
